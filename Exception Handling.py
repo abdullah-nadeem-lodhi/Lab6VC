@@ -1,3 +1,5 @@
+print("Welcome To Except Handler")
+
 def demonstrate_exceptions():
     print("\n--- 1. ArithmeticException (ZeroDivisionError) ---")
     try:
